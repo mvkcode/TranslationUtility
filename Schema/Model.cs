@@ -1,4 +1,4 @@
-﻿//Copyright © 2022 ManpowerGroup. All Rights Reserved
+
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
